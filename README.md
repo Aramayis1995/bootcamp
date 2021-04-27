@@ -2,4 +2,4 @@
 
 ---
 
-this is my homework about git commands
+This is my homework about git commands.
